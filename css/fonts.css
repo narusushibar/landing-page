@@ -13880,7 +13880,7 @@
 /*fontface*/
 @font-face {
 	font-family: "Asfalto";
-	src: url("../fonts/Fernandoforero-asfalto.eot"), url("../fonts/Fernandoforero-asfalto.otf") format("otf"), url("../fonts/Fernandoforero-asfalto.eot") format("eot"), url("../fonts/Fernandoforero-asfalto.svg") format("svg"), url("../fonts/Fernandoforero-asfalto.ttf") format("truetype"), url("../fonts/Fernandoforero-asfalto.woff") format("woff"), url("../fonts/Fernandoforero-asfalto.woff2") format("woff2");
+	src: url("../fonts/fernandoForero-Asfalto.eot"), url("../fonts/fernandoForero-Asfalto.otf") format("otf"), url("../fonts/fernandoForero-Asfalto.eot") format("eot"), url("../fonts/fernandoForero-Asfalto.svg") format("svg"), url("../fonts/fernandoForero-Asfalto.ttf") format("truetype"), url("../fonts/fernandoForero-Asfalto.woff") format("woff"), url("../fonts/fernandoForero-Asfalto.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
 }
